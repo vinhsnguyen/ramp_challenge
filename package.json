@@ -2,7 +2,7 @@
   "name": "ramp_challenge",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vinhsnguyen.github.io/ramp_challenge",
+  "homepage": "https://vnguyen.dev/ramp_challenge",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
